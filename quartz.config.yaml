@@ -2,12 +2,12 @@
 configuration:
   pageTitle: Quartz 5
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: nickrolandveliz.github.io/obsidian-knowledge
+  baseUrl: nickrolandveliz.github.io/obsidian-quartz
   ignorePatterns:
     - private
     - templates
